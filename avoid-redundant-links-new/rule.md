@@ -3,7 +3,7 @@ type: rule
 archivedreason: 
 title: Do you avoid redundant linking (aka single link to single location)?
 guid: 8e22e80c-b922-4986-ac4b-3ac49707a941
-uri: avoid-redundant-links
+uri: avoid-redundant-links-new
 created: 2015-02-16T02:15:22.0000000Z
 authors: 
 - title: Adam Cogan
@@ -14,6 +14,7 @@ related: []
 redirects:
 - do-you-avoid-redundant-linking-(aka-single-link-to-single-location)
 - do-you-avoid-redundant-linking-aka-single-link-to-single-location
+- avoid-redundant-links
 
 ---
 
